@@ -102,3 +102,12 @@ Early identification of potential churn
 Improved customer retention strategy
 Revenue protection
 Better customer engagement planning
+
+
+
+
+
+
+
+Dashboard Overview
+![Dashboard Overview](Silent Churn Customers/dashboard_img.png)
