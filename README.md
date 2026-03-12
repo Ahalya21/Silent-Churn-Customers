@@ -110,4 +110,4 @@ Better customer engagement planning
 
 
 Dashboard Overview
-![Dashboard Overview](Silent Churn Customers/dashboard_img.png)
+![Dashboard Overview](images/dashboard_img.png)
